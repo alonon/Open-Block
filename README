@@ -1,0 +1,9 @@
+Open Block
+----------
+Open block is a simple python script to find domains IP and edit /etc/hosts automaticly in Ubuntu. 
+
+
+Usage
+---------
+sudo python openblock.py domainname.om
+
